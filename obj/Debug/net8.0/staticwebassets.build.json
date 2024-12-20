@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O+CX/VmjefprZlVbpPme1LYsMy14bNiHJhrHOa0mplo=",
+  "Source": "ProductsManagementApi",
+  "BasePath": "_content/ProductsManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
